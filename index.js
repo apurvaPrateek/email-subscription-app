@@ -1,7 +1,7 @@
 
 
 const scriptURL =
-"https://script.google.com/macros/s/AKfycbysdo2UeAw1G9t5waSJoPn8YJCvFTsB4t_2xCH7giw3whGekYMXFfVd7s6YFbwmekwYpA/exec";
+SCRIPT_URL;
 const form = document.forms["email-subscription-form"];
 
 const msg = document.querySelector("#msg");
